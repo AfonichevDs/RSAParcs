@@ -1,0 +1,15 @@
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\bin\Debug\CustomModule.exe.config
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\bin\Debug\CustomModule.exe
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\bin\Debug\CustomModule.pdb
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\bin\Debug\Parcs.dll
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\bin\Debug\Parcs.Module.CommandLine.dll
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\bin\Debug\CommandLine.dll
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\bin\Debug\Parcs.Module.CommandLine.pdb
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\bin\Debug\Parcs.Module.CommandLine.dll.config
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\bin\Debug\Parcs.pdb
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\bin\Debug\Parcs.dll.config
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\bin\Debug\CommandLine.xml
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\obj\Debug\CustomModule.csprojAssemblyReference.cache
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\obj\Debug\CustomModule.csproj.CopyComplete
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\obj\Debug\CustomModule.exe
+C:\Users\afoni\OneDrive\Рабочий стол\Parcs.NET-master\CustomModule\obj\Debug\CustomModule.pdb
